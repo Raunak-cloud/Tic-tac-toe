@@ -1,0 +1,19 @@
+body{
+  margin:12;
+}
+
+input{
+  caret-color: transparent;
+   text-align: center;
+   height:60px;
+   width:50px;  
+   font-weight:bold;
+   font-size:40px;
+    cursor: pointer;
+  
+    
+}
+
+button{
+  margin:10px
+}
